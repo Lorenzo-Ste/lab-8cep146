@@ -95,17 +95,17 @@ Each star (⭐) represents one weight token.
 
 ### Q1. How did your predictions improve?
 
-TBD
+My predictions were mostly correct besides one but I learned from my mistake and was able to better judge what was more important (between price, service and food) when deciding if a customer would like a restuarnt. So I think by trial and error the more you adjust weights the more sharp you would become.
 
-### Q2. How did "weights" (tokens) help you learn?
-
-TBD
+### Q2. How did "weights" (tokens) help you learn
+I think weights are there to help you understand moreso how important each feature is when making your decision. Like if food had more tokens it should mean that food had a bigger influence on wether we like the restaurant or not
+. The tokens were meant to eb adjusted to help us guage how chagning weights can improve AI's decsions.
 
 ### Q3. What would happen with more layers or inputs?
 
-TBD
+If we added mroe layers or inputs I think our neural network wouldve had been able to take in alot more information and see even more difficult patterns. Instead of only the three that we had we could have also had maybe included where the restaurant was, how clean it was, the atmosphere etc. This could help with more accurate predicitons.
 
 ### Q4. How does this reflect how real AI works?
 
-TBD
+This activity definetly reflects well how AI works as neural networks learn by taking information, making predictions and adjusting the weight based on errors. Real AI systems do this process over and over again using large sets of data until they are able to be good at recognizing patterns and making decisions.
 
