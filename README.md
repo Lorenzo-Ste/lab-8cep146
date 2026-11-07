@@ -36,16 +36,16 @@ All features start with equal weights.
 
 | Card | Food | Service | Price | Prediction | Actual | Correct? |
 |------|------|---------|-------|------------|--------|----------|
-| 1 | Great | Poor | Cheap | TBD | TBD | TBD |
-| 2 | Bad | Great | Expensive | TBD | TBD | TBD |
-| 3 | Good | Okay | Moderate | TBD | TBD | TBD |
-| 4 | Poor | Poor | Cheap | TBD | TBD | TBD |
-| 5 | Excellent | Excellent | Expensive | TBD | TBD | TBD |
-| 6 | Okay | Bad | Moderate | TBD | TBD | TBD |
-| 7 | Great | Okay | Cheap | TBD | TBD | TBD |
-| 8 | Poor | Excellent | Expensive | TBD | TBD | TBD |
-| 9 | Excellent | Poor | Moderate | TBD | TBD | TBD |
-| 10 | Okay | Okay | Expensive | TBD | TBD | TBD |
+| 1 | Great | Poor | Cheap | Like | TBD | TBD |
+| 2 | Bad | Great | Expensive | Dislike | TBD | TBD |
+| 3 | Good | Okay | Moderate | Like | TBD | TBD |
+| 4 | Poor | Poor | Cheap | Dislike | TBD | TBD |
+| 5 | Excellent | Excellent | Expensive | Like | TBD | TBD |
+| 6 | Okay | Bad | Moderate | Dislike | TBD | TBD |
+| 7 | Great | Okay | Cheap | Like | TBD | TBD |
+| 8 | Poor | Excellent | Expensive | Dislike | TBD | TBD |
+| 9 | Excellent | Poor | Moderate | Like | TBD | TBD |
+| 10 | Okay | Okay | Expensive | Like | TBD | TBD |
 
 ### Weight Adjustment Tracker
 
