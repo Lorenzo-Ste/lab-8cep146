@@ -76,14 +76,14 @@ Each star (⭐) represents one weight token.
 
 | Card | Food | Service | Price | Prediction | Actual | Correct? |
 |------|------|---------|-------|------------|--------|----------|
-| 11 | Good | Excellent | Cheap | LIKE | TBD | TBD |
-| 12 | Bad | Bad | Expensive | DISLIKE | TBD | TBD |
-| 13 | Excellent | Great | Moderate | LIKE | TBD | TBD |
+| 11 | Good | Excellent | Cheap | LIKE | LIKE | YES |
+| 12 | Bad | Bad | Expensive | DISLIKE | DISLIKE | YES |
+| 13 | Excellent | Great | Moderate | LIKE | LIKE | YES |
 
 ### Testing Accuracy
 
-- Correct Predictions: TBD / 3
-- Overall Accuracy: TBD %
+- Correct Predictions: 3 / 3
+- Overall Accuracy: 100 %
 
 ### Team Comparison
 
