@@ -1,6 +1,6 @@
 # lab-8cep146
 
-## This is my lab 8 submission for cep146
+## This is our submission for cep146 (Due to Zilans broken repository we have moved everything here.)
 
 ## Team Roles
 
