@@ -79,3 +79,33 @@ Each star (⭐) represents one weight token.
 | 11 | Good | Excellent | Cheap | TBD | TBD | TBD |
 | 12 | Bad | Bad | Expensive | TBD | TBD | TBD |
 | 13 | Excellent | Great | Moderate | TBD | TBD | TBD |
+
+### Testing Accuracy
+
+- Correct Predictions: TBD / 3
+- Overall Accuracy: TBD %
+
+### Team Comparison
+
+- Our Team Accuracy: TBD
+- Other Team Accuracy: TBD
+- Most Important Feature: TBD
+
+## 6. Reflection Discussion
+
+### Q1. How did your predictions improve?
+
+TBD
+
+### Q2. How did "weights" (tokens) help you learn?
+
+TBD
+
+### Q3. What would happen with more layers or inputs?
+
+TBD
+
+### Q4. How does this reflect how real AI works?
+
+TBD
+
