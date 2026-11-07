@@ -76,9 +76,9 @@ Each star (⭐) represents one weight token.
 
 | Card | Food | Service | Price | Prediction | Actual | Correct? |
 |------|------|---------|-------|------------|--------|----------|
-| 11 | Good | Excellent | Cheap | TBD | TBD | TBD |
-| 12 | Bad | Bad | Expensive | TBD | TBD | TBD |
-| 13 | Excellent | Great | Moderate | TBD | TBD | TBD |
+| 11 | Good | Excellent | Cheap | LIKE | TBD | TBD |
+| 12 | Bad | Bad | Expensive | DISLIKE | TBD | TBD |
+| 13 | Excellent | Great | Moderate | LIKE | TBD | TBD |
 
 ### Testing Accuracy
 
