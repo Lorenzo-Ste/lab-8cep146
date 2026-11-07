@@ -87,9 +87,9 @@ Each star (⭐) represents one weight token.
 
 ### Team Comparison
 
-- Our Team Accuracy: TBD
-- Other Team Accuracy: TBD
-- Most Important Feature: TBD
+- Our Team Accuracy: 100% (3/3)
+- Other Team Accuracy: Not available (No other team results collected)
+- Most Important Feature: Price (Weight = 2)
 
 ## 6. Reflection Discussion
 
