@@ -54,16 +54,18 @@ All features start with equal weights.
 
 ### Weight Adjustment Tracker
 
+Each star (⭐) represents one weight token.
+
 | Round | Food | Service | Price | Adjustment |
 |-------|------|---------|-------|------------|
-| Initial | 1 | 1 | 1 | Starting weights |
-| Card 1 | TBD | TBD | TBD | TBD |
-| Card 2 | TBD | TBD | TBD | TBD |
-| Card 3 | TBD | TBD | TBD | TBD |
-| Card 4 | TBD | TBD | TBD | TBD |
-| Card 5 | TBD | TBD | TBD | TBD |
-| Card 6 | TBD | TBD | TBD | TBD |
-| Card 7 | TBD | TBD | TBD | TBD |
-| Card 8 | TBD | TBD | TBD | TBD |
-| Card 9 | TBD | TBD | TBD | TBD |
-| Card 10 | TBD | TBD | TBD | TBD |
+| Initial | ⭐ | ⭐ | ⭐ | Starting weights |
+| Card 1 | ⭐ | ⭐ | ⭐ | No change |
+| Card 2 | ⭐ | ⭐ | ⭐ | No change |
+| Card 3 | ⭐ | ⭐ | ⭐ | No change |
+| Card 4 | ⭐ | ⭐ | ⭐ | No change |
+| Card 5 | ⭐ | ⭐ | ⭐ | No change |
+| Card 6 | ⭐ | ⭐ | ⭐ | No change |
+| Card 7 | ⭐ | ⭐ | ⭐ | No change |
+| Card 8 | ⭐ | ⭐ | ⭐ | No change |
+| Card 9 | ⭐ | ⭐ | ⭐ | No change |
+| Card 10 | ⭐ | ⭐ | ⭐⭐ | Increased Price weight |
