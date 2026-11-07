@@ -69,3 +69,13 @@ Each star (⭐) represents one weight token.
 | Card 8 | ⭐ | ⭐ | ⭐ | No change |
 | Card 9 | ⭐ | ⭐ | ⭐ | No change |
 | Card 10 | ⭐ | ⭐ | ⭐⭐ | Increased Price weight |
+
+## 5. Part B: Testing Phase
+
+### Testing Results
+
+| Card | Food | Service | Price | Prediction | Actual | Correct? |
+|------|------|---------|-------|------------|--------|----------|
+| 11 | Good | Excellent | Cheap | TBD | TBD | TBD |
+| 12 | Bad | Bad | Expensive | TBD | TBD | TBD |
+| 13 | Excellent | Great | Moderate | TBD | TBD | TBD |
