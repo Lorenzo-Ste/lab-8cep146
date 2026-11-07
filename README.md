@@ -47,6 +47,11 @@ All features start with equal weights.
 | 9 | Excellent | Poor | Moderate | Like | Like | Yes |
 | 10 | Okay | Okay | Expensive | Like | Dislike | No |
 
+### Training Accuracy
+
+- Correct Predictions: 9/10
+- Overall Accuracy: 90%
+
 ### Weight Adjustment Tracker
 
 | Round | Food | Service | Price | Adjustment |
